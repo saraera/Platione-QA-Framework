@@ -1,0 +1,11 @@
+{
+  "hotLead": {
+    "status": "HOT"
+  },
+  "coldLead": {
+    "status": "COLD"
+  },
+  "duplicateContact": {
+    "email": "duplicate@test.com"
+  }
+}
